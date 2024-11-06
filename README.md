@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there I am Shinku-chan, currently a univercity student working on a small group project. 
+Hello there I am Shinku-chan, currently a univercity student working on small projects.
