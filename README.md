@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Hello there I am Shinku-chan, currently a univercity student working on small projects.
+
+My tech stack:
+- HTML, CSS
+- JavaScript
+- React
+- Flutter
